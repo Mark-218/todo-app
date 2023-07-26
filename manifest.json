@@ -1,6 +1,7 @@
 {
   "short_name": "React App",
   "name": "Create React App Sample",
+  "homepage": "https://mark-218.github.io/todo-app/",
   "icons": [
     {
       "src": "favicon.ico",
